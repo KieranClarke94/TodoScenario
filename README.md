@@ -6,7 +6,7 @@ How long did you spend on your solution?
 
 How do you build and run your solution?
 - .NET
-  Requires Docker
+- -Requires Docker
   Navigate to the .NET directory
   On a CLI run "docker-compose up -d --build"
   This will start the Todo Container and an nginx server used to reverse proxy between the container and the client.
