@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj": {}
+    "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj": {}
   },
   "projects": {
-    "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj": {
+    "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
+        "projectUniqueName": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
         "projectName": "Scenario",
-        "projectPath": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
+        "projectPath": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
         "packagesPath": "C:\\Users\\Kieran\\.nuget\\packages\\",
-        "outputPath": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\obj\\",
+        "outputPath": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/z58yyt4PjOrNzHbggl+po0+ZaeKdUS8ihEmBDYFfDniTqBug0gmfjiGaJj+FOZ8e0twne4cKz5uBr0TGUQP8Q==",
+  "dgSpecHash": "LHubKQ2GmFbaAtDmi+qiBpvINsrbW0ed2XQsCab59wps9twDbl3zmMkEm7N3k8pQNN19PEgoaCDR6J3v4IC2YQ==",
   "success": true,
-  "projectFilePath": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario.Tests\\Scenario.Tests.csproj",
+  "projectFilePath": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario.Tests\\Scenario.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kieran\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Kieran\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5UzuO2uveUvBqQWwrMUKo7889Fd3nuWeLgFshBBlIx+9R1LrtV9ZqeA0elNlcOwE1GaYoTlYHyTtbpxxwrH1Q==",
+  "dgSpecHash": "yjCcs1Cna1w2+F6zhFfuICspU6dpv2c3fqjsuOV/Wsf7Fn1Fl35s6Jb9vFgh9T8Gkq2lBDmbDPSG4ASEnt1qgA==",
   "success": true,
-  "projectFilePath": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
+  "projectFilePath": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario\\Scenario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kieran\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Kieran\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GrIO0Bl1YsLBiEoo+i8t2QS+qExYJ730gx7QqYLt1VqoZB8PIYROdsi2jJrIaMR6PImVVgLRk3BkkTBvBjW+0w==",
+  "dgSpecHash": "9CedFq8VpORhr2txIDgP1h1n7hEYgtkp16epmA2foUGPjOiXKN5BEZnev8yTMFQDykTNQBM60pgAMUbWoVF8Eg==",
   "success": true,
-  "projectFilePath": "G:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario.Web\\Scenario.Web.csproj",
+  "projectFilePath": "g:\\wip\\TodoScenario\\TodoScenario\\NET\\Scenario.Web\\Scenario.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kieran\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\Kieran\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
