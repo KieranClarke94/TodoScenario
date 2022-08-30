@@ -1,0 +1,10 @@
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\bin\Debug\netstandard2.1\Scenario.deps.json
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\bin\Debug\netstandard2.1\Scenario.dll
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\bin\Debug\netstandard2.1\Scenario.pdb
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.csproj.AssemblyReference.cache
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.GeneratedMSBuildEditorConfig.editorconfig
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.AssemblyInfoInputs.cache
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.AssemblyInfo.cs
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.csproj.CoreCompileInputs.cache
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.dll
+G:\wip\TodoScenario\TodoScenario\NET\Scenario\obj\Debug\netstandard2.1\Scenario.pdb
