@@ -1,0 +1,13 @@
+.modal-content {
+    > input[type="text"]{
+        margin-bottom: 12px;
+    }
+
+    .completed {
+        font-size:20px; line-height:1rem; font-weight:600;
+
+        > input {
+            margin-right: 12px;
+        }
+    }
+}

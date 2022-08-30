@@ -1,0 +1,14 @@
+.label{
+	display:flex; flex-direction:column; align-items:flex-start;
+	padding-bottom:8px; margin:0 0 0 0;
+	font-size:20px; line-height:1rem; font-weight:600;
+
+	.validation-error{
+		padding:0; margin-top: 12px;
+		color:#e00000; font-size:20px; font-weight:400;
+
+		&.block{
+			display:block; padding:0;
+		}
+	}
+}

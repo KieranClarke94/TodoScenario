@@ -1,0 +1,16 @@
+.input {
+	width:98%; min-height:38px;
+	padding:9px 8px;
+	font-size:20px;
+	border:1px solid grey; border-radius:3px;
+
+	&:hover{
+		border:1px solid darkgrey;
+	}
+	&:focus{
+		z-index:10;
+	}
+	&.error{
+		border-color:red;
+	}
+}

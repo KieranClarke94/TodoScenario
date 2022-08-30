@@ -1,0 +1,10 @@
+.todo-item {
+    min-height: 40px; border-bottom: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+
+    &:hover{
+        cursor: pointer;
+    }
+}

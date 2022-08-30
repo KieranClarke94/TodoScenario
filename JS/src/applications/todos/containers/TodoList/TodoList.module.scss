@@ -1,0 +1,14 @@
+.todo-list {
+    width: 50%; height: 100%; margin: 12px; padding: 12px;
+    
+
+    > h3{
+        margin-left: 24px;
+    }
+
+    > ul{
+        min-height: 200px; margin: 12px; padding: 12px;
+        box-shadow:0 0 12px 0 rgba(#000, 0.15);
+        list-style: none;
+    }
+}
